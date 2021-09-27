@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
-
+# My Portfolio
+## My Eyes Repo
+<a href="http://ShannaSmith.github.io/Eye-Exercise </a>
 You can use the [editor on GitHub](https://github.com/ShannaSmith/Eye-Exercise/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
