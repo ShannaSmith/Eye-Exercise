@@ -5,7 +5,7 @@
          
          
 ##About
-This is a program for a web page in which two eyes follow the user's mouse movements in real time. The base coade was written by the MIT XPro staff. I wrote the code to add a second eye element and have both eyye elemants follow the mouse positon on the screen using mouse events.
+This is a program for a web page in which two eyes follow the user's mouse movements in real time. The base code was written by the MIT XPro staff. I wrote the code to add a second eye element and have both eye elements follow the mouse positon on the screen using mouse events.
          
         ##How To Run
         -  1.  load the index.html file in your browser.
