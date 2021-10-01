@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+
 # My Portfolio
 ## My Eyes Repo
 <a href="http://ShannaSmith.github.io/Eye-Exercise></a>
