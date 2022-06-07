@@ -1,6 +1,6 @@
 
-#My Portfolio
-##My Eyes Repo
+ #  My Portfolio
+ ## My Eyes Repo
 <a href="http://ShannaSmith.github.io/Eye-Exercise></a>
          
          
