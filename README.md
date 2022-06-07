@@ -1,7 +1,7 @@
 
  #  My Portfolio
  ## My Eyes Repo
-http://ShannaSmith.github.io/Eye-Exercise
+[Eye-Exercise](http://ShannaSmith.github.io/Eye-Exercise)
          
          
 ## About
