@@ -13,6 +13,7 @@ This is a program for a web page in which two eyes follow the user's mouse movem
          
          
 ## Roadmap of Future Improvements
-         Increase UI by allowing the user to select the shape of the eyes and the color of the background. I would also like to add code that allows the user choose a nose and mouth to create a mor complete face.
+         Improve UI by allowing the user to select the shape of the eyes and the color of the background. 
+         I would also like to add code that allows the user choose a nose and mouth to create a more complete face.
          
-## License: MIT
+### License: MIT
